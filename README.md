@@ -1,6 +1,6 @@
 <h1 align="center"> 🐺 Project Name 💻 </h1> <br>
 <p align="center">
-    <img alt="mockup" title="mockup" src="./readme/mockups-presentation-exemple.png" width="1000">
+    <img alt="mockup" title="mockup" src="./images/screenshot.png" width="1000">
 </p>
 
 <p align="center">
@@ -8,37 +8,6 @@
 </p>
 
 ---
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
----
-
 
 
 ## 👨🏻‍🏫 Le sujet / Introduction à / Le sujet Epitech
@@ -88,15 +57,17 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollit tenetur i
 
 ## 🖥️ Ma solution / Notre solution
 
-<img alt="mockup 1" title="mockup" src="./readme/mockups-presentation-gif-1.gif" width="1050">
+<div align="center">
+<img alt="mockup 1" title="mockup" src="./images/screenshot.png" width="1050">
 
 ---
 
-<img alt="mockup 2" title="mockup" src="./readme/mockups-presentation-gif-2.gif" width="1050">
+<img alt="mockup 2" title="mockup" src="./images/screenshot.png" width="1050">
 
 ---
 
-<img alt="mockup 3" title="mockup" src="./readme/mockups-presentation-gif-3.gif" width="1050">
+<img alt="mockup 3" title="mockup" src="./images/screenshot.png" width="1050">
+</div>
 
 ---
 
@@ -105,12 +76,14 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollit tenetur i
 
 </br>
 <div align="center">
-  <img alt="Flutter" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 </br>
 
 <div align="center">
-    <img alt="architecture" title="mockup" src="./readme/mockups-architecture-exemple.png" width="800">
+    <img alt="architecture" title="mockup" src="./images/screenshot.png" width="800">
 </div>
 </br>
 
@@ -142,3 +115,41 @@ const API_KEY = 'ENTER YOUR API';
 ```bash
 npm start || flutter run
 ```
+
+---
+
+## 📩 Contactez moi / nous
+👨🏻 Valentin Fouillet - Developpeur fullstack
+<div align="center">
+    <a href="https://github.com/valoup917">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/valentin-fouillet/">
+        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</div>
+
+--- 
+
+🧔🏽 Illyas chihi - Devops engineer / Developpeur backend
+<div align="center">
+    <a href="https://github.com/">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/">
+        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</div>
+
+---
+
+👩🏽 Silya Nait-Zerad - Developpeur Front End
+<div align="center">
+    <a href="https://github.com/">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/">
+        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</div>
+
